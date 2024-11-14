@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Lista4POO_InterfaceGrafica-hiago\Lista4POO_InterfaceGrafica-hiago\obj\Debug\Lista4POO_InterfaceGrafica-hiago.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lista4POO_InterfaceGrafica-hiago\Lista4POO_InterfaceGrafica-hiago\obj\Debug\Lista4POO_InterfaceGrafica_hiago.Form1.resources
+C:\Users\User\source\repos\Lista4POO_InterfaceGrafica-hiago\Lista4POO_InterfaceGrafica-hiago\obj\Debug\Lista4POO_InterfaceGrafica_hiago.Properties.Resources.resources
+C:\Users\User\source\repos\Lista4POO_InterfaceGrafica-hiago\Lista4POO_InterfaceGrafica-hiago\obj\Debug\Lista4POO_InterfaceGrafica-hiago.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lista4POO_InterfaceGrafica-hiago\Lista4POO_InterfaceGrafica-hiago\obj\Debug\Lista4POO_InterfaceGrafica-hiago.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lista4POO_InterfaceGrafica-hiago\Lista4POO_InterfaceGrafica-hiago\bin\Debug\Lista4POO_InterfaceGrafica-hiago.exe.config
+C:\Users\User\source\repos\Lista4POO_InterfaceGrafica-hiago\Lista4POO_InterfaceGrafica-hiago\bin\Debug\Lista4POO_InterfaceGrafica-hiago.exe
+C:\Users\User\source\repos\Lista4POO_InterfaceGrafica-hiago\Lista4POO_InterfaceGrafica-hiago\bin\Debug\Lista4POO_InterfaceGrafica-hiago.pdb
+C:\Users\User\source\repos\Lista4POO_InterfaceGrafica-hiago\Lista4POO_InterfaceGrafica-hiago\obj\Debug\Lista4POO_InterfaceGrafica-hiago.exe
+C:\Users\User\source\repos\Lista4POO_InterfaceGrafica-hiago\Lista4POO_InterfaceGrafica-hiago\obj\Debug\Lista4POO_InterfaceGrafica-hiago.pdb
