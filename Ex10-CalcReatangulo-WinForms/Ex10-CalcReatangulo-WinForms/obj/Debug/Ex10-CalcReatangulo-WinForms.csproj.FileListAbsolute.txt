@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Ex10-CalcReatangulo-WinForms\Ex10-CalcReatangulo-WinForms\bin\Debug\Ex10-CalcReatangulo-WinForms.exe.config
+C:\Users\User\source\repos\Ex10-CalcReatangulo-WinForms\Ex10-CalcReatangulo-WinForms\bin\Debug\Ex10-CalcReatangulo-WinForms.exe
+C:\Users\User\source\repos\Ex10-CalcReatangulo-WinForms\Ex10-CalcReatangulo-WinForms\bin\Debug\Ex10-CalcReatangulo-WinForms.pdb
+C:\Users\User\source\repos\Ex10-CalcReatangulo-WinForms\Ex10-CalcReatangulo-WinForms\obj\Debug\Ex10-CalcReatangulo-WinForms.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ex10-CalcReatangulo-WinForms\Ex10-CalcReatangulo-WinForms\obj\Debug\Ex10_CalcReatangulo_WinForms.Form1.resources
+C:\Users\User\source\repos\Ex10-CalcReatangulo-WinForms\Ex10-CalcReatangulo-WinForms\obj\Debug\Ex10_CalcReatangulo_WinForms.Properties.Resources.resources
+C:\Users\User\source\repos\Ex10-CalcReatangulo-WinForms\Ex10-CalcReatangulo-WinForms\obj\Debug\Ex10-CalcReatangulo-WinForms.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Ex10-CalcReatangulo-WinForms\Ex10-CalcReatangulo-WinForms\obj\Debug\Ex10-CalcReatangulo-WinForms.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ex10-CalcReatangulo-WinForms\Ex10-CalcReatangulo-WinForms\obj\Debug\Ex10-CalcReatangulo-WinForms.exe
+C:\Users\User\source\repos\Ex10-CalcReatangulo-WinForms\Ex10-CalcReatangulo-WinForms\obj\Debug\Ex10-CalcReatangulo-WinForms.pdb
