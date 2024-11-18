@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Ex6-MilhaMarQuilometro-WinForms\Ex6-MilhaMarQuilometro-WinForms\bin\Debug\Ex6-MilhaMarQuilometro-WinForms.exe.config
+C:\Users\User\source\repos\Ex6-MilhaMarQuilometro-WinForms\Ex6-MilhaMarQuilometro-WinForms\bin\Debug\Ex6-MilhaMarQuilometro-WinForms.exe
+C:\Users\User\source\repos\Ex6-MilhaMarQuilometro-WinForms\Ex6-MilhaMarQuilometro-WinForms\bin\Debug\Ex6-MilhaMarQuilometro-WinForms.pdb
+C:\Users\User\source\repos\Ex6-MilhaMarQuilometro-WinForms\Ex6-MilhaMarQuilometro-WinForms\obj\Debug\Ex6-MilhaMarQuilometro-WinForms.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ex6-MilhaMarQuilometro-WinForms\Ex6-MilhaMarQuilometro-WinForms\obj\Debug\Ex6_MilhaMarQuilometro_WinForms.Form1.resources
+C:\Users\User\source\repos\Ex6-MilhaMarQuilometro-WinForms\Ex6-MilhaMarQuilometro-WinForms\obj\Debug\Ex6_MilhaMarQuilometro_WinForms.Properties.Resources.resources
+C:\Users\User\source\repos\Ex6-MilhaMarQuilometro-WinForms\Ex6-MilhaMarQuilometro-WinForms\obj\Debug\Ex6-MilhaMarQuilometro-WinForms.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Ex6-MilhaMarQuilometro-WinForms\Ex6-MilhaMarQuilometro-WinForms\obj\Debug\Ex6-MilhaMarQuilometro-WinForms.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ex6-MilhaMarQuilometro-WinForms\Ex6-MilhaMarQuilometro-WinForms\obj\Debug\Ex6-MilhaMarQuilometro-WinForms.exe
+C:\Users\User\source\repos\Ex6-MilhaMarQuilometro-WinForms\Ex6-MilhaMarQuilometro-WinForms\obj\Debug\Ex6-MilhaMarQuilometro-WinForms.pdb
