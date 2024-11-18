@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Ex2-AreaQuadrado-WinForms\Ex2-AreaQuadrado-WinForms\bin\Debug\Ex2-AreaQuadrado-WinForms.exe.config
+C:\Users\User\source\repos\Ex2-AreaQuadrado-WinForms\Ex2-AreaQuadrado-WinForms\bin\Debug\Ex2-AreaQuadrado-WinForms.exe
+C:\Users\User\source\repos\Ex2-AreaQuadrado-WinForms\Ex2-AreaQuadrado-WinForms\bin\Debug\Ex2-AreaQuadrado-WinForms.pdb
+C:\Users\User\source\repos\Ex2-AreaQuadrado-WinForms\Ex2-AreaQuadrado-WinForms\obj\Debug\Ex2-AreaQuadrado-WinForms.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ex2-AreaQuadrado-WinForms\Ex2-AreaQuadrado-WinForms\obj\Debug\Ex2_AreaQuadrado_WinForms.Form1.resources
+C:\Users\User\source\repos\Ex2-AreaQuadrado-WinForms\Ex2-AreaQuadrado-WinForms\obj\Debug\Ex2_AreaQuadrado_WinForms.Properties.Resources.resources
+C:\Users\User\source\repos\Ex2-AreaQuadrado-WinForms\Ex2-AreaQuadrado-WinForms\obj\Debug\Ex2-AreaQuadrado-WinForms.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Ex2-AreaQuadrado-WinForms\Ex2-AreaQuadrado-WinForms\obj\Debug\Ex2-AreaQuadrado-WinForms.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ex2-AreaQuadrado-WinForms\Ex2-AreaQuadrado-WinForms\obj\Debug\Ex2-AreaQuadrado-WinForms.exe
+C:\Users\User\source\repos\Ex2-AreaQuadrado-WinForms\Ex2-AreaQuadrado-WinForms\obj\Debug\Ex2-AreaQuadrado-WinForms.pdb
