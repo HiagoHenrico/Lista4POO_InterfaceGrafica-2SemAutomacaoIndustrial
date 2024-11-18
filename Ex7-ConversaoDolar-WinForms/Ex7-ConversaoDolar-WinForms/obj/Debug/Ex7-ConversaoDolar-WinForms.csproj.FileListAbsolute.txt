@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Ex7-ConversaoDolar-WinForms\Ex7-ConversaoDolar-WinForms\bin\Debug\Ex7-ConversaoDolar-WinForms.exe.config
+C:\Users\User\source\repos\Ex7-ConversaoDolar-WinForms\Ex7-ConversaoDolar-WinForms\bin\Debug\Ex7-ConversaoDolar-WinForms.exe
+C:\Users\User\source\repos\Ex7-ConversaoDolar-WinForms\Ex7-ConversaoDolar-WinForms\bin\Debug\Ex7-ConversaoDolar-WinForms.pdb
+C:\Users\User\source\repos\Ex7-ConversaoDolar-WinForms\Ex7-ConversaoDolar-WinForms\obj\Debug\Ex7-ConversaoDolar-WinForms.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ex7-ConversaoDolar-WinForms\Ex7-ConversaoDolar-WinForms\obj\Debug\Ex7_ConversaoDolar_WinForms.Form1.resources
+C:\Users\User\source\repos\Ex7-ConversaoDolar-WinForms\Ex7-ConversaoDolar-WinForms\obj\Debug\Ex7_ConversaoDolar_WinForms.Properties.Resources.resources
+C:\Users\User\source\repos\Ex7-ConversaoDolar-WinForms\Ex7-ConversaoDolar-WinForms\obj\Debug\Ex7-ConversaoDolar-WinForms.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Ex7-ConversaoDolar-WinForms\Ex7-ConversaoDolar-WinForms\obj\Debug\Ex7-ConversaoDolar-WinForms.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ex7-ConversaoDolar-WinForms\Ex7-ConversaoDolar-WinForms\obj\Debug\Ex7-ConversaoDolar-WinForms.exe
+C:\Users\User\source\repos\Ex7-ConversaoDolar-WinForms\Ex7-ConversaoDolar-WinForms\obj\Debug\Ex7-ConversaoDolar-WinForms.pdb
