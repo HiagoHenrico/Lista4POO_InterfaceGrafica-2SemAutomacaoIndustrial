@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Ex4-AreaTriangulo-WinForms\Ex4-AreaTriangulo-WinForms\bin\Debug\Ex4-AreaTriangulo-WinForms.exe.config
+C:\Users\User\source\repos\Ex4-AreaTriangulo-WinForms\Ex4-AreaTriangulo-WinForms\bin\Debug\Ex4-AreaTriangulo-WinForms.exe
+C:\Users\User\source\repos\Ex4-AreaTriangulo-WinForms\Ex4-AreaTriangulo-WinForms\bin\Debug\Ex4-AreaTriangulo-WinForms.pdb
+C:\Users\User\source\repos\Ex4-AreaTriangulo-WinForms\Ex4-AreaTriangulo-WinForms\obj\Debug\Ex4-AreaTriangulo-WinForms.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ex4-AreaTriangulo-WinForms\Ex4-AreaTriangulo-WinForms\obj\Debug\Ex4_AreaTriangulo_WinForms.Form1.resources
+C:\Users\User\source\repos\Ex4-AreaTriangulo-WinForms\Ex4-AreaTriangulo-WinForms\obj\Debug\Ex4_AreaTriangulo_WinForms.Properties.Resources.resources
+C:\Users\User\source\repos\Ex4-AreaTriangulo-WinForms\Ex4-AreaTriangulo-WinForms\obj\Debug\Ex4-AreaTriangulo-WinForms.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Ex4-AreaTriangulo-WinForms\Ex4-AreaTriangulo-WinForms\obj\Debug\Ex4-AreaTriangulo-WinForms.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ex4-AreaTriangulo-WinForms\Ex4-AreaTriangulo-WinForms\obj\Debug\Ex4-AreaTriangulo-WinForms.exe
+C:\Users\User\source\repos\Ex4-AreaTriangulo-WinForms\Ex4-AreaTriangulo-WinForms\obj\Debug\Ex4-AreaTriangulo-WinForms.pdb
