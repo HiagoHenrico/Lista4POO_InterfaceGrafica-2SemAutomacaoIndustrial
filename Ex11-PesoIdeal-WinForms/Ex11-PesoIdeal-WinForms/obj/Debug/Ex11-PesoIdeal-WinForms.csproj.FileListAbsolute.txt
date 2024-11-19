@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Ex11-PesoIdeal-WinForms\Ex11-PesoIdeal-WinForms\bin\Debug\Ex11-PesoIdeal-WinForms.exe.config
+C:\Users\User\source\repos\Ex11-PesoIdeal-WinForms\Ex11-PesoIdeal-WinForms\bin\Debug\Ex11-PesoIdeal-WinForms.exe
+C:\Users\User\source\repos\Ex11-PesoIdeal-WinForms\Ex11-PesoIdeal-WinForms\bin\Debug\Ex11-PesoIdeal-WinForms.pdb
+C:\Users\User\source\repos\Ex11-PesoIdeal-WinForms\Ex11-PesoIdeal-WinForms\obj\Debug\Ex11-PesoIdeal-WinForms.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ex11-PesoIdeal-WinForms\Ex11-PesoIdeal-WinForms\obj\Debug\Ex11_PesoIdeal_WinForms.Form1.resources
+C:\Users\User\source\repos\Ex11-PesoIdeal-WinForms\Ex11-PesoIdeal-WinForms\obj\Debug\Ex11_PesoIdeal_WinForms.Properties.Resources.resources
+C:\Users\User\source\repos\Ex11-PesoIdeal-WinForms\Ex11-PesoIdeal-WinForms\obj\Debug\Ex11-PesoIdeal-WinForms.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Ex11-PesoIdeal-WinForms\Ex11-PesoIdeal-WinForms\obj\Debug\Ex11-PesoIdeal-WinForms.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ex11-PesoIdeal-WinForms\Ex11-PesoIdeal-WinForms\obj\Debug\Ex11-PesoIdeal-WinForms.exe
+C:\Users\User\source\repos\Ex11-PesoIdeal-WinForms\Ex11-PesoIdeal-WinForms\obj\Debug\Ex11-PesoIdeal-WinForms.pdb
